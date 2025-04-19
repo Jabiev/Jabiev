@@ -26,11 +26,17 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30"/>
+  <img src="https://seeklogo.com/images/M/microsoft-entity-framework-logo-6B2182C5C2-seeklogo.com.png" height="30" alt="EF Core"/>
+  <img src="https://raw.githubusercontent.com/jbogard/MediatR/master/Assets/mediatr-logo.png" height="30" alt="MediatR"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Postman_Icon.png" height="30" alt="Postman"/>
+  <img src="https://seeklogo.com/images/E/elasticsearch-logo-0DC40E717A-seeklogo.com.png" height="30" alt="Elasticsearch"/>
+  <img src="https://developers.google.com/identity/images/g-logo.png" height="30" alt="Google OAuth 2.0"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" height="30" alt="SMTP Email"/>
 </p>
 
 ---
