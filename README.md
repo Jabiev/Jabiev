@@ -54,12 +54,6 @@
 <a href="https://slack.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" />
 </a>
-<a href="https://serilog.net/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/serilog/serilog-original.svg" height="30" />
-</a>
-<a href="https://datalust.co/seq" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seq/seq-original.svg" height="30" />
-</a>
 </p>
 
 ---
