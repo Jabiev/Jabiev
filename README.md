@@ -55,8 +55,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" />
 </a>
 <a href="https://app.sendgrid.com/" target="_blank">
-  <img src="https://static.cdnlogo.com/logos/s/46/sendgrid.svg" alt="SendGrid Logo" height="30" />
-</a>
+  <img src="https://static.cdnlogo.com/logos/s/46/sendgrid.svg" alt="SendGrid Logo" height="30" style="color: white;"/>
+</a> <br>
 <a href="https://slack.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" />
 </a>
