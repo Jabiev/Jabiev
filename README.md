@@ -81,4 +81,4 @@
 ![Jabiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jabiev&show_icons=true&theme=tokyonight)
 
 ### 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jabiev&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jabiev&theme=dark&hide_border=true)](https://git.io/streak-stats)
