@@ -1,7 +1,7 @@
 <h1 align="center">Hello dear companions 👋, I'm Jabiev 🌙👨‍💻</h1>
 
 <p align="center">
-  <img src="https://github.com/Jabiev/Jabiev.assets/blob/main/1745935119137.jpeg" alt="Jabiev Banner" width="500"/>
+  <img src="https://github.com/Jabiev/Jabiev.assets/blob/main/Github.png" alt="Jabiev Banner" width="1000" height="1000"/>
 </p>
 
 <p align="left">
