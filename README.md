@@ -14,7 +14,7 @@
   <em><strong>📧 How to reach me: jabieviam@gmail.com</strong></em>
 </p>
 
----
+
 
 ### 📲 Connect with me:
 <p align="center">
@@ -27,7 +27,7 @@
   </a>
 </p>
 
----
+
 
 ### 🛠️ Languages and Tools:
 <p align="center">
@@ -72,7 +72,7 @@
   </a>
 </p>
 
----
+
 
 ### 📊 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jabiev&layout=compact&theme=tokyonight)
